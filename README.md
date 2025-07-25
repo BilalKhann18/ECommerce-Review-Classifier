@@ -34,16 +34,4 @@ The model enables **early detection of negative reviews**, helping e-commerce te
 - Identify product issues early  
 - Make faster, data-driven decisions
 
----
-
-## 🎓 Project Context
-
-- **Institution**: University of Warwick – Warwick Business School  
-- **Duration**: Oct–Dec 2024  
-- **Course**: Generative AI & Applied Machine Learning  
-- **Role**: Data analyst and model developer
-
----
-
-## 📁 Repo Structure
 
